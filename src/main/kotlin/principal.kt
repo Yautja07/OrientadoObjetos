@@ -4,7 +4,7 @@ import clases.Triangulo
 import kotlin.io.path.createTempDirectory
 
 fun main(){
-
+    println("Esto es una prueba de git")
     println(calculadora(80, 10, :: sumar))
 
 }
